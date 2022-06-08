@@ -1,0 +1,43 @@
+
+.fak{
+    width: 300px;
+    margin: 50px auto;
+ 
+}
+
+body{
+    background-color: #00b894;
+    font-size: 25px;
+}
+
+
+
+#fak{
+    height: 25px;
+    font-size: 20px;
+}
+
+.islem{
+    margin: 0 0 0 40px;
+    
+}
+#hesapla2,#temizle2{
+    font-size: 20px;
+    float: left;
+}
+#temizle2{
+    margin-left: 10px;
+}
+#hesapla2:hover,#temizle2:hover{
+    background-color:darkslategrey;
+    color: white;
+
+
+
+}
+.baslik{
+    margin: 0 0 10px 25px;
+   
+    color: white;
+    width: 210px;
+}
